@@ -1,0 +1,2 @@
+ID=waecpatr@grb.local
+Pass=@SPXWeb@utentifieComptesIndividuels1
